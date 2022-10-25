@@ -1,0 +1,155 @@
+{
+  "main": {
+    "id": "891ea38db13138d0",
+    "type": "split",
+    "children": [
+      {
+        "id": "2ea67fcb8876edf8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "86a05199edd64201",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Android/DrawerLayout/DrawerLayout basic.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a611003181fa4c76",
+    "type": "split",
+    "children": [
+      {
+        "id": "7d039d3006bf04f5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "54352ef373609e41",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d0694e2ee9e14295",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "04b5c27d1567756a",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8fba673362f45d1a",
+    "type": "split",
+    "children": [
+      {
+        "id": "a93d7c858c8528b0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e607e66f88474380",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Android/DrawerLayout/DrawerLayout basic.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "33ba87cfdba0761b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Android/DrawerLayout/DrawerLayout basic.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0f60852fbfbc5f4c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "40cee229a019e73d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Android/DrawerLayout/DrawerLayout basic.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "86a05199edd64201",
+  "lastOpenFiles": [
+    "Android/DrawerLayout/NavigationView.md",
+    "Android/DrawerLayout/DrawerLayout basic.md",
+    "Android/Compose.md",
+    "Android/Dagger2.md",
+    "Android/Fragments.md",
+    "Android/Git.md",
+    "Android/Hilt.md",
+    "Android/JetPack.md",
+    "Android/JSON.md",
+    "Android/JUnit.md"
+  ]
+}
