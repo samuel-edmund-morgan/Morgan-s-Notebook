@@ -23,9 +23,11 @@
             "id": "22c49fc85f2666c2",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.0.3"
+                "file": "Android/DrawerLayout/DrawerLayout basic.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -96,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Android/DrawerLayout/NavigationView.md",
+                "file": "Android/DrawerLayout/DrawerLayout basic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Android/DrawerLayout/NavigationView.md",
+                "file": "Android/DrawerLayout/DrawerLayout basic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Android/DrawerLayout/NavigationView.md"
+                "file": "Android/DrawerLayout/DrawerLayout basic.md"
               }
             }
           }
