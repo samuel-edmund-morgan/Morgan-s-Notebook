@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Android/DrawerLayout/DrawerLayout basic.md",
+                "file": "Android/DrawerLayout/NavigationView.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Android/DrawerLayout/DrawerLayout basic.md",
+                "file": "Android/DrawerLayout/NavigationView.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Android/DrawerLayout/DrawerLayout basic.md",
+                "file": "Android/DrawerLayout/NavigationView.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Android/DrawerLayout/DrawerLayout basic.md"
+                "file": "Android/DrawerLayout/NavigationView.md"
               }
             }
           }
@@ -141,8 +141,8 @@
   },
   "active": "86a05199edd64201",
   "lastOpenFiles": [
-    "Android/DrawerLayout/NavigationView.md",
     "Android/DrawerLayout/DrawerLayout basic.md",
+    "Android/DrawerLayout/NavigationView.md",
     "Android/Compose.md",
     "Android/Dagger2.md",
     "Android/Fragments.md",
