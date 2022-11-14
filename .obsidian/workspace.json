@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Android/Untitled 39.md",
+                "file": "Android/View Binding.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Android/Untitled 39.md",
+                "file": "Android/View Binding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Android/Untitled 39.md",
+                "file": "Android/View Binding.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Android/Untitled 39.md"
+                "file": "Android/View Binding.md"
               }
             }
           }
@@ -138,15 +138,15 @@
   },
   "active": "5f2dbacc6a8868c8",
   "lastOpenFiles": [
+    "Android/Untitled 45.md",
+    "Android/Untitled 43.md",
+    "Android/Untitled 44.md",
+    "Android/Untitled 42.md",
+    "Android/Untitled 40.md",
+    "Android/Untitled 39.md",
     "Android/Untitled 38.md",
     "Android/Untitled 37.md",
     "Android/Untitled 36.md",
-    "Android/Untitled 35.md",
-    "Android/Git.md",
-    "Android/DrawerLayout/NavigationView.md",
-    "Android/DrawerLayout/DrawerLayout basic.md",
-    "Android/Compose.md",
-    "Android/Dagger2.md",
-    "Android/Fragments.md"
+    "Android/Untitled 35.md"
   ]
 }
