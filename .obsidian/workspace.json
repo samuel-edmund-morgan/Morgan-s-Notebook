@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Android/View Binding.md",
+                "file": "Android/WiFi adb.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Android/View Binding.md",
+                "file": "Android/WiFi adb.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Android/View Binding.md",
+                "file": "Android/WiFi adb.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Android/View Binding.md"
+                "file": "Android/WiFi adb.md"
               }
             }
           }
@@ -138,6 +138,7 @@
   },
   "active": "5f2dbacc6a8868c8",
   "lastOpenFiles": [
+    "Android/View Binding.md",
     "Android/Untitled 45.md",
     "Android/Untitled 43.md",
     "Android/Untitled 44.md",
@@ -146,7 +147,6 @@
     "Android/Untitled 39.md",
     "Android/Untitled 38.md",
     "Android/Untitled 37.md",
-    "Android/Untitled 36.md",
-    "Android/Untitled 35.md"
+    "Android/Untitled 36.md"
   ]
 }
