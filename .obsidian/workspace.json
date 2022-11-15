@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Android/003.Activity Lifecycle.md",
+                "file": "Android/View Binding.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Android/003.Activity Lifecycle.md",
+                "file": "Android/View Binding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Android/003.Activity Lifecycle.md",
+                "file": "Android/View Binding.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Android/003.Activity Lifecycle.md"
+                "file": "Android/View Binding.md"
               }
             }
           }
@@ -136,10 +136,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5f2dbacc6a8868c8",
+  "active": "54352ef373609e41",
   "lastOpenFiles": [
-    "Android/002.Misc.md",
     "Android/003.Activity Lifecycle.md",
+    "Android/002.Misc.md",
     "Android/001.WiFi adb.md",
     "Android/View Binding.md",
     "Android/Untitled 45.md",
