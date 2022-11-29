@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Android/005.Toolbar and Menu.md",
+                "file": "Android/002.Misc.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Android/005.Toolbar and Menu.md",
+                "file": "Android/002.Misc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Android/005.Toolbar and Menu.md",
+                "file": "Android/002.Misc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Android/005.Toolbar and Menu.md"
+                "file": "Android/002.Misc.md"
               }
             }
           }
@@ -148,8 +148,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "54352ef373609e41",
+  "active": "5f2dbacc6a8868c8",
   "lastOpenFiles": [
+    "Android/005.Toolbar and Menu.md",
     "Android/Activity Lifecycle.md",
     "Android/003.Activity Lifecycle.md",
     "Android/004.View Binding.md",
@@ -158,7 +159,6 @@
     "Android/Save after screen rotation/002.onSavedInstanceState.md",
     "Android/Save after screen rotation/001.ViewModel and ViewModelProvider.md",
     "Android/Save after screen rotation/000.Save stance after rotation.md",
-    "Android/Anko.md",
-    "Android/001.WiFi adb.md"
+    "Android/Anko.md"
   ]
 }
