@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Android/Save after screen rotation/000.Save stance after rotation.md",
+                "file": "Android/Save after screen rotation/001.ViewModel and ViewModelProvider.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Android/Save after screen rotation/000.Save stance after rotation.md",
+                "file": "Android/Save after screen rotation/001.ViewModel and ViewModelProvider.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Android/Save after screen rotation/000.Save stance after rotation.md",
+                "file": "Android/Save after screen rotation/001.ViewModel and ViewModelProvider.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Android/Save after screen rotation/000.Save stance after rotation.md"
+                "file": "Android/Save after screen rotation/001.ViewModel and ViewModelProvider.md"
               }
             }
           }
@@ -151,6 +151,7 @@
   },
   "active": "7ad46f3fff6eb835",
   "lastOpenFiles": [
+    "Android/Save after screen rotation/000.Save stance after rotation.md",
     "Android/Save after screen rotation/002.onSavedInstanceState.md",
     "Android/Save after screen rotation/001.ViewModel and ViewModelProvider.md",
     "Android/004.View Binding.md",
@@ -159,7 +160,6 @@
     "Android/001.WiFi adb.md",
     "Android/003.Activity Lifecycle.md",
     "Android/002.Misc.md",
-    "Android/Untitled 45.md",
-    "Android/Untitled 43.md"
+    "Android/Untitled 45.md"
   ]
 }
