@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Android/Intents/002.Explicit Intents (ingoing Activities).md",
+                "file": "Android/Activity Lifecycle.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Android/Intents/002.Explicit Intents (ingoing Activities).md",
+                "file": "Android/Activity Lifecycle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Android/Intents/002.Explicit Intents (ingoing Activities).md",
+                "file": "Android/Activity Lifecycle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Android/Intents/002.Explicit Intents (ingoing Activities).md"
+                "file": "Android/Activity Lifecycle.md"
               }
             }
           }
@@ -150,8 +150,8 @@
   },
   "active": "5f2dbacc6a8868c8",
   "lastOpenFiles": [
-    "Android/Intents/001.Inplicit Intent (outgoinng Activities).md",
     "Android/Intents/002.Explicit Intents (ingoing Activities).md",
+    "Android/Intents/001.Inplicit Intent (outgoinng Activities).md",
     "Android/Save after screen rotation/002.onSavedInstanceState.md",
     "Android/Save after screen rotation/001.ViewModel and ViewModelProvider.md",
     "Android/Save after screen rotation/000.Save stance after rotation.md",
