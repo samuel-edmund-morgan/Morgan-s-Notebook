@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Android/Intents/Inplicit Intent (outgoinng Activities).md",
+                "file": "Android/Intents/Explicit Intents (ingoing Activities).md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Android/Intents/Inplicit Intent (outgoinng Activities).md",
+                "file": "Android/Intents/Explicit Intents (ingoing Activities).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Android/Intents/Inplicit Intent (outgoinng Activities).md",
+                "file": "Android/Intents/Explicit Intents (ingoing Activities).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Android/Intents/Inplicit Intent (outgoinng Activities).md"
+                "file": "Android/Intents/Explicit Intents (ingoing Activities).md"
               }
             }
           }
@@ -150,6 +150,7 @@
   },
   "active": "54352ef373609e41",
   "lastOpenFiles": [
+    "Android/Intents/001.Inplicit Intent (outgoinng Activities).md",
     "Android/Save after screen rotation/002.onSavedInstanceState.md",
     "Android/Save after screen rotation/001.ViewModel and ViewModelProvider.md",
     "Android/Save after screen rotation/000.Save stance after rotation.md",
@@ -158,7 +159,6 @@
     "Android/Anko.md",
     "Android/001.WiFi adb.md",
     "Android/003.Activity Lifecycle.md",
-    "Android/002.Misc.md",
-    "Android/Untitled 45.md"
+    "Android/002.Misc.md"
   ]
 }
