@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Android/Save after screen rotation/ViewModel and ViewModelProvider.md",
+                "file": "Android/Save after screen rotation/002.onSavedInstanceState.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Android/Save after screen rotation/ViewModel and ViewModelProvider.md",
+                "file": "Android/Save after screen rotation/002.onSavedInstanceState.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Android/Save after screen rotation/ViewModel and ViewModelProvider.md",
+                "file": "Android/Save after screen rotation/002.onSavedInstanceState.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Android/Save after screen rotation/ViewModel and ViewModelProvider.md"
+                "file": "Android/Save after screen rotation/002.onSavedInstanceState.md"
               }
             }
           }
@@ -138,7 +138,8 @@
   },
   "active": "54352ef373609e41",
   "lastOpenFiles": [
-    "Android/Save after screen rotation/onSavedInstanceState.md",
+    "Android/Save after screen rotation/001.ViewModel and ViewModelProvider.md",
+    "Android/Save after screen rotation/002.onSavedInstanceState.md",
     "Android/004.View Binding.md",
     "Android/Activity Lifecycle.md",
     "Android/Anko.md",
@@ -146,7 +147,6 @@
     "Android/003.Activity Lifecycle.md",
     "Android/002.Misc.md",
     "Android/Untitled 45.md",
-    "Android/Untitled 43.md",
-    "Android/Untitled 44.md"
+    "Android/Untitled 43.md"
   ]
 }
