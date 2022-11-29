@@ -11,8 +11,12 @@
             "id": "5f2dbacc6a8868c8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Android/Toolbar and Menu.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -93,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Android/Toolbar and Menu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Android/Toolbar and Menu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Android/Toolbar and Menu.md"
+              }
             }
           }
         ]
@@ -142,9 +150,9 @@
   },
   "active": "54352ef373609e41",
   "lastOpenFiles": [
+    "Android/Activity Lifecycle.md",
     "Android/003.Activity Lifecycle.md",
     "Android/004.View Binding.md",
-    "Android/Activity Lifecycle.md",
     "Android/Intents/002.Explicit Intents (ingoing Activities).md",
     "Android/Intents/001.Inplicit Intent (outgoinng Activities).md",
     "Android/Save after screen rotation/002.onSavedInstanceState.md",
