@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Android/004.View Binding.md",
+                "file": "Android/Save after screen rotation/ViewModel and ViewModelProvider.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Android/004.View Binding.md",
+                "file": "Android/Save after screen rotation/ViewModel and ViewModelProvider.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Android/004.View Binding.md",
+                "file": "Android/Save after screen rotation/ViewModel and ViewModelProvider.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Android/004.View Binding.md"
+                "file": "Android/Save after screen rotation/ViewModel and ViewModelProvider.md"
               }
             }
           }
@@ -136,17 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5f2dbacc6a8868c8",
+  "active": "54352ef373609e41",
   "lastOpenFiles": [
+    "Android/Save after screen rotation/onSavedInstanceState.md",
+    "Android/004.View Binding.md",
     "Android/Activity Lifecycle.md",
     "Android/Anko.md",
     "Android/001.WiFi adb.md",
-    "Android/004.View Binding.md",
     "Android/003.Activity Lifecycle.md",
     "Android/002.Misc.md",
     "Android/Untitled 45.md",
     "Android/Untitled 43.md",
-    "Android/Untitled 44.md",
-    "Android/Untitled 42.md"
+    "Android/Untitled 44.md"
   ]
 }
