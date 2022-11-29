@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -150,7 +149,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "54352ef373609e41",
+  "active": "5f2dbacc6a8868c8",
   "lastOpenFiles": [
     "Android/Save after screen rotation/001.ViewModel and ViewModelProvider.md",
     "Android/Save after screen rotation/000.Save stance after rotation.md",
