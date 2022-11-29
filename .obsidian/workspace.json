@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7ad46f3fff6eb835",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Android/Save after screen rotation/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Android/Save after screen rotation/002.onSavedInstanceState.md",
+                "file": "Android/Save after screen rotation/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Android/Save after screen rotation/002.onSavedInstanceState.md",
+                "file": "Android/Save after screen rotation/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Android/Save after screen rotation/002.onSavedInstanceState.md"
+                "file": "Android/Save after screen rotation/Untitled.md"
               }
             }
           }
@@ -136,10 +149,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "54352ef373609e41",
+  "active": "7ad46f3fff6eb835",
   "lastOpenFiles": [
-    "Android/Save after screen rotation/001.ViewModel and ViewModelProvider.md",
     "Android/Save after screen rotation/002.onSavedInstanceState.md",
+    "Android/Save after screen rotation/001.ViewModel and ViewModelProvider.md",
     "Android/004.View Binding.md",
     "Android/Activity Lifecycle.md",
     "Android/Anko.md",
