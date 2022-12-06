@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Android/007.XML.md",
+                "file": "Android/Log.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Android/007.XML.md",
+                "file": "Android/Log.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Android/007.XML.md",
+                "file": "Android/Log.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Android/007.XML.md"
+                "file": "Android/Log.md"
               }
             }
           }
@@ -150,6 +150,7 @@
   },
   "active": "54352ef373609e41",
   "lastOpenFiles": [
+    "Android/007.XML.md",
     "Android/006.Fragments.md",
     "Android/005.Toolbar and Menu.md",
     "Android/RecyclerView/002.Multiple ViewHolders.md",
@@ -158,7 +159,6 @@
     "Android/Activity Lifecycle.md",
     "Android/003.Activity Lifecycle.md",
     "Android/004.View Binding.md",
-    "Android/Intents/002.Explicit Intents (ingoing Activities).md",
-    "Android/Intents/001.Inplicit Intent (outgoinng Activities).md"
+    "Android/Intents/002.Explicit Intents (ingoing Activities).md"
   ]
 }
