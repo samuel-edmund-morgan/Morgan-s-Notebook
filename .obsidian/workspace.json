@@ -157,7 +157,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses to complete/Корисні матеріали/Untitled.md",
+                "file": "Courses to complete/Корисні матеріали/Александр Климов.md",
                 "mode": "source",
                 "source": false
               }
@@ -230,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Courses to complete/Корисні матеріали/Untitled.md",
+                "file": "Courses to complete/Корисні матеріали/Александр Климов.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,7 +247,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Courses to complete/Корисні матеріали/Untitled.md",
+                "file": "Courses to complete/Корисні матеріали/Александр Климов.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -270,7 +270,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Courses to complete/Корисні матеріали/Untitled.md"
+                "file": "Courses to complete/Корисні матеріали/Александр Климов.md"
               }
             }
           }
@@ -281,8 +281,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "54352ef373609e41",
+  "active": "d9318123dec18846",
   "lastOpenFiles": [
+    "Courses to complete/Корисні матеріали/002.StartAndroid.md",
     "Courses to complete/Корисні матеріали/Александр Климов.md",
     "Courses to complete/001.Youtube - NECO +.md",
     "Courses to complete/003.Андрей Сумин - Профессиональный уровень.md",
@@ -291,7 +292,6 @@
     "Courses to complete/002. Андрей Сумин - Быстрый старт.md",
     "Books to read/003. Metanit Jetpack.md",
     "Books to read/002.Head First Android.md",
-    "Books to read/001.Android. Программирование для профессионалов.md",
-    "Books to read/005.Волшебство Kotlin - 2020.md"
+    "Books to read/001.Android. Программирование для профессионалов.md"
   ]
 }
