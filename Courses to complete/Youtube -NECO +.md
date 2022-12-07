@@ -4,5 +4,3 @@
 		padding = 0 0
 		marging = 0 0
 		src = "https://metanit.com/kotlin/jetpack/1.1.php"></iframe>
-
-[
