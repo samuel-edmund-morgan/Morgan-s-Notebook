@@ -262,7 +262,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "8fba673362f45d1a",
@@ -329,7 +330,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7278f118cd85f4f5",
+  "active": "54352ef373609e41",
   "lastOpenFiles": [
     "Android/010.MVC.md",
     "Android/011.SQLite.md",
