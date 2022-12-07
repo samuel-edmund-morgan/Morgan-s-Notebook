@@ -205,7 +205,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Android/010.MVC.md",
+                "file": "Android/011.SQLite.md",
                 "mode": "source",
                 "source": false
               }
@@ -278,7 +278,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Android/010.MVC.md",
+                "file": "Android/011.SQLite.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -295,7 +295,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Android/010.MVC.md",
+                "file": "Android/011.SQLite.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -318,7 +318,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Android/010.MVC.md"
+                "file": "Android/011.SQLite.md"
               }
             }
           }
@@ -331,6 +331,7 @@
   },
   "active": "7278f118cd85f4f5",
   "lastOpenFiles": [
+    "Android/010.MVC.md",
     "Android/011.SQLite.md",
     "Courses to complete/Корисні матеріали/006.Курси в Intellij.md",
     "Courses to complete/Корисні матеріали/005.Codewars.md",
@@ -339,7 +340,6 @@
     "Courses to complete/Корисні матеріали/002.StartAndroid.md",
     "Courses to complete/Корисні матеріали/001.Александр Климов.md",
     "Courses to complete/001.Youtube - NECO +.md",
-    "Courses to complete/003.Андрей Сумин - Профессиональный уровень.md",
-    "Courses to complete/005..md"
+    "Courses to complete/003.Андрей Сумин - Профессиональный уровень.md"
   ]
 }
