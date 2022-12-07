@@ -188,18 +188,6 @@
             }
           },
           {
-            "id": "ce1c354812990dbe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Courses to complete/Корисні матеріали/005.Codewars.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "7278f118cd85f4f5",
             "type": "leaf",
             "state": {
@@ -212,7 +200,7 @@
             }
           }
         ],
-        "currentTab": 16
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
