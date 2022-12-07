@@ -11,8 +11,12 @@
             "id": "5f2dbacc6a8868c8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Android/Room.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -93,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Android/Room.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Android/Room.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Android/Room.md"
+              }
             }
           }
         ]
@@ -142,8 +150,8 @@
   },
   "active": "54352ef373609e41",
   "lastOpenFiles": [
-    "Android/004.View Binding.md",
     "Android/View Binding.md",
+    "Android/004.View Binding.md",
     "Android/Untitled 45.md",
     "Android/Untitled 44.md",
     "Android/Untitled 43.md",
