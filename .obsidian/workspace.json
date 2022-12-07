@@ -145,7 +145,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Корисні матеріали/Untitled.md",
+                "file": "Courses to complete/001.Youtube - NECO +.md",
                 "mode": "source",
                 "source": false
               }
@@ -218,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Корисні матеріали/Untitled.md",
+                "file": "Courses to complete/001.Youtube - NECO +.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Корисні матеріали/Untitled.md",
+                "file": "Courses to complete/001.Youtube - NECO +.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Корисні матеріали/Untitled.md"
+                "file": "Courses to complete/001.Youtube - NECO +.md"
               }
             }
           }
@@ -271,15 +271,15 @@
   },
   "active": "d7aec904806c9d52",
   "lastOpenFiles": [
+    "Courses to complete/003.Андрей Сумин - Профессиональный уровень.md",
+    "Корисні матеріали/Александр Климов.md",
     "Courses to complete/005..md",
     "Courses to complete/004. Developer Android Google.md",
     "Courses to complete/001.Youtube - NECO +.md",
-    "Courses to complete/003.Андрей Сумин - Профессиональный уровень.md",
     "Courses to complete/002. Андрей Сумин - Быстрый старт.md",
     "Books to read/003. Metanit Jetpack.md",
     "Books to read/002.Head First Android.md",
     "Books to read/001.Android. Программирование для профессионалов.md",
-    "Books to read/005.Волшебство Kotlin - 2020.md",
-    "Books to read/006. Грокаем Алгоритм и Паттерн ООП.md"
+    "Books to read/005.Волшебство Kotlin - 2020.md"
   ]
 }
