@@ -145,7 +145,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses to complete/Untitled 1.md",
+                "file": "Courses to complete/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -218,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Courses to complete/Untitled 1.md",
+                "file": "Courses to complete/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Courses to complete/Untitled 1.md",
+                "file": "Courses to complete/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Courses to complete/Untitled 1.md"
+                "file": "Courses to complete/Untitled.md"
               }
             }
           }
@@ -271,6 +271,7 @@
   },
   "active": "d7aec904806c9d52",
   "lastOpenFiles": [
+    "Courses to complete/Untitled 1.md",
     "Courses to complete/Untitled.md",
     "Courses to complete/003.Андрей Сумин - Профессиональный уровень.md",
     "Courses to complete/002. Андрей Сумин - Быстрый старт.md",
@@ -279,7 +280,6 @@
     "Books to read/002.Head First Android.md",
     "Books to read/001.Android. Программирование для профессионалов.md",
     "Books to read/005.Волшебство Kotlin - 2020.md",
-    "Books to read/006. Грокаем Алгоритм и Паттерн ООП.md",
-    "Books to read/004.Kotlin. Программирование на примерах  2020.md"
+    "Books to read/006. Грокаем Алгоритм и Паттерн ООП.md"
   ]
 }
