@@ -83,8 +83,10 @@
             "id": "cb83864d4faf409d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "pdf",
+              "state": {
+                "file": "Books to read/files/file1.pdf"
+              }
             }
           }
         ],
@@ -154,6 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Books to read/files/file1.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,6 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Books to read/files/file1.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,7 +195,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Books to read/files/file1.pdf"
+              }
             }
           }
         ]
