@@ -83,10 +83,8 @@
             "id": "cb83864d4faf409d",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Books to read/files/Программирование для профессионалов.pdf"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -156,7 +154,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books to read/files/Программирование для профессионалов.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +170,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Books to read/files/Программирование для профессионалов.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,9 +191,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Books to read/files/Программирование для профессионалов.pdf"
-              }
+              "state": {}
             }
           }
         ]
@@ -207,11 +201,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "54352ef373609e41",
+  "active": "cb83864d4faf409d",
   "lastOpenFiles": [
+    "Books to read/files/Программирование для профессионалов.pdf",
     "fiiles/Программирование для профессионалов.pdf.md",
     "Books to read/001.Android. Программирование для профессионалов.md",
-    "Books to read/files/Программирование для профессионалов.pdf",
     "Books to read/006. Грокаем Алгоритм и Паттерн ООП.md",
     "Books to read/005.Волшебство Kotlin - 2020.md",
     "Books to read/004.Kotlin. Программирование на примерах  2020.md",
