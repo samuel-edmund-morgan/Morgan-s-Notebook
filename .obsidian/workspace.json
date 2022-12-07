@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d04d6199766d7572",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Android/012.Room.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Android/012.Room.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Android/012.Room.md"
+                "file": "Untitled.md"
               }
             }
           }
@@ -136,8 +149,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5f2dbacc6a8868c8",
+  "active": "d04d6199766d7572",
   "lastOpenFiles": [
+    "Android/012.Room.md",
     "Android/View Binding.md",
     "Android/004.View Binding.md",
     "Android/Untitled 45.md",
@@ -146,7 +160,6 @@
     "Android/Untitled 39.md",
     "Android/Untitled 41.md",
     "Android/Untitled 40.md",
-    "Android/Untitled 38.md",
-    "Android/Untitled 37.md"
+    "Android/Untitled 38.md"
   ]
 }
