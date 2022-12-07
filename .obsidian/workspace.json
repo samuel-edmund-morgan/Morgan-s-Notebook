@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "efbccbe2c6435ffb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Books to read/Untitled 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books to read/Untitled.md",
+                "file": "Books to read/Untitled 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Books to read/Untitled.md",
+                "file": "Books to read/Untitled 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books to read/Untitled.md"
+                "file": "Books to read/Untitled 1.md"
               }
             }
           }
@@ -149,8 +161,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d04d6199766d7572",
+  "active": "efbccbe2c6435ffb",
   "lastOpenFiles": [
+    "Books to read/Untitled.md",
     "Untitled.md",
     "Android/012.Room.md",
     "Android/View Binding.md",
@@ -159,7 +172,6 @@
     "Android/Untitled 44.md",
     "Android/Untitled 43.md",
     "Android/Untitled 39.md",
-    "Android/Untitled 41.md",
-    "Android/Untitled 40.md"
+    "Android/Untitled 41.md"
   ]
 }
