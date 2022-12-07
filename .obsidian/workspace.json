@@ -11,8 +11,12 @@
             "id": "5f2dbacc6a8868c8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Android/View Binding.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -93,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Android/View Binding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Android/View Binding.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Android/View Binding.md"
+              }
             }
           }
         ]
@@ -140,8 +148,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "54352ef373609e41",
+  "active": "5f2dbacc6a8868c8",
   "lastOpenFiles": [
+    "Android/Untitled 45.md",
     "Android/Untitled 44.md",
     "Android/Untitled 43.md",
     "Android/Untitled 39.md",
@@ -150,7 +159,6 @@
     "Android/Untitled 38.md",
     "Android/Untitled 37.md",
     "Android/Untitled 36.md",
-    "Android/Untitled 35.md",
-    "Android/DrawerLayout/002.NavigationView.md"
+    "Android/Untitled 35.md"
   ]
 }
