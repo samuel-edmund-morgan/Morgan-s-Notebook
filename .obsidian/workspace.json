@@ -145,7 +145,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses to complete/004. Developer Android Google.md",
+                "file": "Courses to complete/001.Youtube - NECO +.md",
                 "mode": "source",
                 "source": false
               }
@@ -218,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Courses to complete/004. Developer Android Google.md",
+                "file": "Courses to complete/001.Youtube - NECO +.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Courses to complete/004. Developer Android Google.md",
+                "file": "Courses to complete/001.Youtube - NECO +.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Courses to complete/004. Developer Android Google.md"
+                "file": "Courses to complete/001.Youtube - NECO +.md"
               }
             }
           }
@@ -271,8 +271,8 @@
   },
   "active": "d7aec904806c9d52",
   "lastOpenFiles": [
-    "Courses to complete/Untitled 1.md",
     "Courses to complete/004. Developer Android Google.md",
+    "Courses to complete/Untitled 1.md",
     "Courses to complete/003.Андрей Сумин - Профессиональный уровень.md",
     "Courses to complete/002. Андрей Сумин - Быстрый старт.md",
     "Courses to complete/001.Youtube - NECO +.md",
