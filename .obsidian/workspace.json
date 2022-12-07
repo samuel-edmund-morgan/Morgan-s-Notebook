@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books to read/001.Android. Программирование для профессионалов.md",
+                "file": "fiiles/Программирование для профессионалов.pdf.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books to read/001.Android. Программирование для профессионалов.md",
+                "file": "fiiles/Программирование для профессионалов.pdf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Books to read/001.Android. Программирование для профессионалов.md",
+                "file": "fiiles/Программирование для профессионалов.pdf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books to read/001.Android. Программирование для профессионалов.md"
+                "file": "fiiles/Программирование для профессионалов.pdf.md"
               }
             }
           }
@@ -211,12 +211,12 @@
   },
   "active": "cb83864d4faf409d",
   "lastOpenFiles": [
+    "Books to read/001.Android. Программирование для профессионалов.md",
     "Books to read/006. Грокаем Алгоритм и Паттерн ООП.md",
     "Books to read/005.Волшебство Kotlin - 2020.md",
     "Books to read/004.Kotlin. Программирование на примерах  2020.md",
     "Books to read/003. Metanit Jetpack.md",
     "Books to read/002.Head First Android.md",
-    "Books to read/001.Android. Программирование для профессионалов.md",
     "Untitled.md",
     "Android/012.Room.md",
     "Android/View Binding.md",
