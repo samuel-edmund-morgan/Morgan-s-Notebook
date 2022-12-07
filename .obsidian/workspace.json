@@ -83,9 +83,11 @@
             "id": "cb83864d4faf409d",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Books to read/files/file1.pdf"
+                "file": "Books to read/001.Android. Программирование для профессионалов.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -156,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books to read/files/file1.pdf",
+                "file": "Books to read/001.Android. Программирование для профессионалов.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Books to read/files/file1.pdf",
+                "file": "Books to read/001.Android. Программирование для профессионалов.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books to read/files/file1.pdf"
+                "file": "Books to read/001.Android. Программирование для профессионалов.md"
               }
             }
           }
@@ -209,6 +211,7 @@
   },
   "active": "cb83864d4faf409d",
   "lastOpenFiles": [
+    "Books to read/files/file1.pdf",
     "Books to read/files/Программирование для профессионалов.pdf",
     "fiiles/Программирование для профессионалов.pdf.md",
     "Books to read/001.Android. Программирование для профессионалов.md",
@@ -217,7 +220,6 @@
     "Books to read/004.Kotlin. Программирование на примерах  2020.md",
     "Books to read/003. Metanit Jetpack.md",
     "Books to read/002.Head First Android.md",
-    "Untitled.md",
-    "Android/012.Room.md"
+    "Untitled.md"
   ]
 }
