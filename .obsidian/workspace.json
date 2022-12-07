@@ -205,7 +205,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses to complete/Корисні матеріали/006.Курси в Intellij.md",
+                "file": "Android/SQLite.md",
                 "mode": "source",
                 "source": false
               }
@@ -278,7 +278,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Courses to complete/Корисні матеріали/006.Курси в Intellij.md",
+                "file": "Android/SQLite.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -295,7 +295,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Courses to complete/Корисні матеріали/006.Курси в Intellij.md",
+                "file": "Android/SQLite.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -318,7 +318,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Courses to complete/Корисні матеріали/006.Курси в Intellij.md"
+                "file": "Android/SQLite.md"
               }
             }
           }
@@ -331,6 +331,7 @@
   },
   "active": "7278f118cd85f4f5",
   "lastOpenFiles": [
+    "Courses to complete/Корисні матеріали/006.Курси в Intellij.md",
     "Courses to complete/Корисні матеріали/005.Codewars.md",
     "Courses to complete/Корисні матеріали/004.Itsobes.md",
     "Courses to complete/Корисні матеріали/003. MaterialDesign.md",
@@ -339,7 +340,6 @@
     "Courses to complete/001.Youtube - NECO +.md",
     "Courses to complete/003.Андрей Сумин - Профессиональный уровень.md",
     "Courses to complete/005..md",
-    "Courses to complete/004. Developer Android Google.md",
-    "Courses to complete/002. Андрей Сумин - Быстрый старт.md"
+    "Courses to complete/004. Developer Android Google.md"
   ]
 }
