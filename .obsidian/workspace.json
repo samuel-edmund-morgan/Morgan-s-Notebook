@@ -143,8 +143,12 @@
             "id": "d7aec904806c9d52",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Корисні матеріали/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -214,6 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Корисні матеріали/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,6 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Корисні матеріали/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -251,7 +257,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Корисні матеріали/Untitled.md"
+              }
             }
           }
         ]
@@ -261,10 +269,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "54352ef373609e41",
+  "active": "d7aec904806c9d52",
   "lastOpenFiles": [
-    "Courses to complete/004. Developer Android Google.md",
     "Courses to complete/005..md",
+    "Courses to complete/004. Developer Android Google.md",
     "Courses to complete/001.Youtube - NECO +.md",
     "Courses to complete/003.Андрей Сумин - Профессиональный уровень.md",
     "Courses to complete/002. Андрей Сумин - Быстрый старт.md",
